@@ -8,8 +8,8 @@ This project was a 4-week sprint of rapid iteration, prototyping, and regular st
 1. 🏗️ Retrieval-Augmented Generation (RAG + Closed-Source Models)
 
  - Text embeddings: (BERT + LangChain)
- - Zero-shot, and few-shot prompting using proprietary APIs
- - Multi-shot prompt injection with retrieval from a vector database (RAG-lite)
+ - Zero-shot, and multi-shot prompting using proprietary APIs
+ - Multi-shot prompt injection with retrieval from a vector database
 
 2. 🧠 Fine-Tuning (Open-Source Models)
 
