@@ -1,6 +1,6 @@
 # AI Translation Experiment
 
-This project was a 4-week sprint of rapid iteration, prototyping, and regular stakeholder presentations focused on domain-specific machine translation using transformers/LLMs. I've learned that LLM pipeline design is deeply influenced by large differences in infrastructure constraints (costs, setup time, maintenance). Light weight RAG methods with prompt injection can outperform state of the art tools (google-translate) when domain tuning matters.
+This project was a 4-week sprint of rapid iteration, prototyping, and regular stakeholder presentations focused on domain-specific machine translation using transformers/LLMs. I've learned that LLM pipeline design is deeply influenced by large differences in infrastructure constraints (costs, setup complexity, maintenance). Light weight fine-tuning & RAG methods can outperform state of the art tools (google-translate) when domain-specific language is involved.
 
 🔒 Note: Due to proprietary restrictions, exact details of subject matter cannot be shared. This repo provides redacted/cleaned notebooks with visuals on technical details, and model performance.
 
